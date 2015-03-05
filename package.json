@@ -1,0 +1,27 @@
+{
+  "name": "react-server-render-node",
+  "version": "0.0.1",
+  "description": "Server side rendering for React.js + Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artyomtrityak/react-server-render-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artyomtrityak/react-server-render-node/issues"
+  },
+  "homepage": "https://github.com/artyomtrityak/react-server-render-node",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.2",
+    "react": "^0.12.2",
+    "react-jsx": "^0.12.1",
+    "react-tools": "^0.12.2"
+  }
+}
